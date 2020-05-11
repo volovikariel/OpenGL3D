@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(44,47): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(44,40): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(155,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(233,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(234,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(238,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(239,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(240,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(241,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ariel Volovik\source\repos\OpenGL\OpenGL\Main.cpp(247,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Ariel Volovik\source\repos\OpenGL\x64\Debug\OpenGL.exe
